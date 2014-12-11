@@ -3,7 +3,7 @@
 ### Install
 add `hubot-irish-rail` to your `package.json`
 ```
-"hubot-irish-rail": "~1.0.0"
+"hubot-irish-rail": "~1.0.1"
 ```
 Add `hubot-irish-rail` to your `external_scripts.json` and run `npm install`
 

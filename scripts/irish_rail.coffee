@@ -1,3 +1,14 @@
+# Description:
+#   Fetches realtime information for dart stations
+#
+# Commands:
+#   hubot list the dart stations - Lists all dart stations
+#   hubot when is the next northbound dart due at <station> - Responds with the realtime info for the next northbound train at a given station
+#   hubot when is the next southbound dart due at <station> - Responds with the realtime info for the next southbound train at a given station
+#
+# Author:
+#   Thomas Cullen <thomascullen92@gmail.com>
+
 parseString = require('xml2js').parseString
 
 module.exports = (robot) ->

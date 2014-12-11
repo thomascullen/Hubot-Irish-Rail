@@ -1,6 +1,6 @@
 {
   "name": "hubot-irish-rail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script for querying the Irish Rail API",
   "main": "index.js",
   "scripts": {
