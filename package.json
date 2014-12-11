@@ -1,0 +1,28 @@
+{
+  "name": "hubot-irish-rail",
+  "version": "1.0.0",
+  "description": "A Hubot script for querying the Irish Rail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thomascullen92/Hubot-Irish-Rail.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "irishrail"
+  ],
+  "author": "Thomas Cullen <thomascullen92@gmail.com> (http://thomascullendesign.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thomascullen92/Hubot-Irish-Rail/issues"
+  },
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "xml2js" : "^0.4.4"
+  },
+  "homepage": "https://github.com/Thomascullen92/Hubot-Irish-Rail"
+}

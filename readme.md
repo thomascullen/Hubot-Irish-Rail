@@ -1,11 +1,11 @@
 # A Hubot script for querying the Irish Rail API
 
 ### Install
-Add the following dependencies to your pacakage.json
+add `hubot-irish-rail` to your `package.json`
 ```
-"xml2js" : "^0.4.4"
+"hubot-irish-rail": "~1.0.0"
 ```
-Put `irish_rail.coffee` into your scripts folder in hubot.
+Add `hubot-irish-rail` to your `external_scripts.json` and run `npm install`
 
 ### Commands
 
